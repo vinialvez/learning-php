@@ -1,0 +1,15 @@
+.ct-body {
+    width: 100%;
+    max-width: 100%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form-register {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
